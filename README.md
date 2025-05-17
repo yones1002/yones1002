@@ -51,6 +51,7 @@
   <a href="mailto:jjonah322@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  
 </p>
 
 
@@ -113,7 +114,9 @@
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </a>
-
+<a href="https://www.jetbrains.com/phpstorm/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" alt="phpstorm" width="40" height="40"/>
+</a>
 
 </p>
 
