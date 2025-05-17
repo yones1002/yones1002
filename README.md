@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=36BCF7&center=false&vCenter=false&width=600&lines=🔹+Backend+Developer+🇮🇷+%7C+Laravel+%26+PHP+Lover+🔹" alt="Typing SVG" />
 </h2>
 
-<img align="right" alt="younes" width="300" height="300" src="https://images.steamusercontent.com/ugc/2050866709631100234/8C2CBD20914C286F73ABCA80E15D7533765C19FF/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<img align="right" alt="younes" width="350" height="300" src="https://images.steamusercontent.com/ugc/2050866709631100234/8C2CBD20914C286F73ABCA80E15D7533765C19FF/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yones1002&label=Profile%20views&color=0e75b6&style=flat" alt="yones1002" /> </p>
 
