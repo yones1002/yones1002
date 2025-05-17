@@ -84,22 +84,5 @@
 </a>
 
 
-
 </p>
 
-
-## 📊 GitHub Stats
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yones1002&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="yones1002" height="180"/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=yones1002&show_icons=true&locale=en&theme=tokyonight" alt="yones1002" height="180"/>
-
-</div>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yones1002&theme=tokyonight" alt="yones1002 streak" width="100%" height="180"/>
-</p>
