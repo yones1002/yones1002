@@ -3,20 +3,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=36BCF7&center=false&vCenter=false&width=600&lines=🔹+Backend+Developer+🇮🇷+%7C+Laravel+%26+PHP+Lover+🔹" alt="Typing SVG" />
 </h2>
 
-<img align="right" alt="younes" width="400" height="300" src="https://images.steamusercontent.com/ugc/2050866709631100234/8C2CBD20914C286F73ABCA80E15D7533765C19FF/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<img align="right" alt="younes" width="300" height="300" src="https://images.steamusercontent.com/ugc/2050866709631100234/8C2CBD20914C286F73ABCA80E15D7533765C19FF/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yones1002&label=Profile%20views&color=0e75b6&style=flat" alt="yones1002" /> </p>
 
 
-
-
 - 🔭 I’m currently working on [Cryptobaz Organization](https://github.com/cryptobaz)  
-- 🌱 I’m currently learning **PHP language, Laravel development framework**  
-- 💡 I'm always curious and motivated to grow into professional developer  
-- 👨‍💻 All of my projects are available at [https://github.com/yones1002](https://github.com/yones1002)  
-- 📫 Reach me via: **jjonah322@gmail.com**
+- 🌱 I’m learning **PHP language, Laravel development framework**  
+- 💡 I'm always curious and motivated to grow into developer  
+- 🌍 I'm based in Iran 🇮🇷
+- 📫 You can contact me at **jjonah322@gmail.com**
 
-## 📊 GitHub Stats
+
+<h2>📊 GitHub Stats</h2>
 
 <p align="left">
   <a href="https://github.com/yones1002?tab=followers" target="_blank">
