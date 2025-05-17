@@ -4,7 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yones1002&label=Profile%20views&color=0e75b6&style=flat" alt="yones1002" /> </p>
 
-  <h2> 🔹 Backend Developer 🇮🇷 | Laravel & PHP Lover</h2>
+<h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=36BCF7&center=false&vCenter=false&width=435&lines=🔹+Backend+Developer+🇮🇷+%7C+Laravel+%26+PHP+Lover" alt="Typing SVG" />
+</h2>
+
 
 - 🔭 I’m currently working on [Cryptobaz Organization](https://github.com/cryptobaz)  
 - 🌱 I’m currently learning **PHP language, Laravel development framework**  
@@ -12,18 +15,46 @@
 - 👨‍💻 All of my projects are available at [https://github.com/yones1002](https://github.com/yones1002)  
 - 📫 Reach me via: **jjonah322@gmail.com**
 
-## 🔗 Connect with me:
+## 📊 GitHub Stats
+
 <p align="left">
-<a href="https://linkedin.com/in/younes-sahraei-768a44322" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://instagram.com/younes_sahraei" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
+  <a href="https://github.com/yones1002?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/yones1002?label=Followers&style=flat-square&logo=github&color=0d1117" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/yones1002?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Public_Repos-⬢-blue?style=flat-square&logo=github" alt="Public Repositories" />
+  </a>
+  <a href="https://github.com/yones1002?tab=stars" target="_blank">
+    <img src="https://img.shields.io/github/stars/yones1002?label=Stars&style=flat-square&logo=github&color=ffc107" alt="GitHub Stars" />
+  </a>
+  <a href="https://github.com/yones1002/yones1002/commits/main" target="_blank">
+    <img src="https://img.shields.io/github/last-commit/yones1002/yones1002?style=flat-square&logo=git&color=green" alt="Last Commit" />
+  </a>
 </p>
 
 
-## 🛠 Languages and Tools:
+
+## 🔗 Socials
+<p align="left">
+  <a href="https://t.me/younessahraei" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://wa.me/09197170582" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://instagram.com/younes_sahraei" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://linkedin.com/in/younes-sahraei-768a44322" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jjonah322@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+
+## 🛠 Skills
 <p align="left">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
