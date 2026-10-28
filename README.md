@@ -79,13 +79,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </a>
 <a href="https://laravel.com/" target="_blank">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1280px-Laravel.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail)" width="40" height="40"/>
+  <img src="https://laravel.gallerycdn.vsassets.io/extensions/laravel/vscode-laravel/2.0.1/1789391319756/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40"/>
 </a>
 <a href="https://www.mysql.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 </a>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1280px-Adobe_Photoshop_CC_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)" width="40" height="40"/>
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/3840px-Adobe_Photoshop_CC_icon.svg.png" width="40" height="40"/>
 </a>
 <a href="https://www.php.net/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
